@@ -12,7 +12,7 @@ Concrete strength depends on several factors such as cement content, water ratio
 - **Techniques Used:**  
   - Exploratory Data Analysis (EDA)  
   - Data preprocessing and feature scaling  
-  - Machine Learning models (Random Forest Reggresor, Gradient Boosting Regressor)  
+  - Machine Learning models (Random Forest Regressor, Gradient Boosting Regressor)  
   - Hyperparameter tuning with `GridSearchCV`  
   - Model evaluation with cross-validation  
 
