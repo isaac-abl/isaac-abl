@@ -8,7 +8,6 @@ The interactive dashboard is available here:
 ---
 
 ## 📸 Preview
-![Dashboard Screenshot](ruta_a_una_imagen.png)
 
 <img width="2128" height="1149" alt="Ingresos" src="https://github.com/user-attachments/assets/4bf6043a-2750-449a-97ce-a1dd604cc6ff" />
 <img width="2129" height="1151" alt="Detalle ingresos" src="https://github.com/user-attachments/assets/b5b260ba-dcc6-471c-8f96-f73f9c679a4e" />
