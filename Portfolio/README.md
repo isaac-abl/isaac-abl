@@ -5,7 +5,7 @@ I enjoy transforming complex data into meaningful insights and building solution
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 **B.S. in Physics** — University of Costa Rica  
 - 📊 Recently completed a **Data Science specialization**  
@@ -19,11 +19,11 @@ I enjoy transforming complex data into meaningful insights and building solution
 
 **Programming & Tools**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, PySpark)  
-- SQL  
+- SQL
+- SQL Server Integration Services (SSIS)
 - R (basic)  
 - Power BI  
-- Docker  
-- Git & GitHub  
+- Docker (basic)
 
 **Data Science & ML**
 - Data cleaning & preprocessing  
@@ -36,32 +36,8 @@ I enjoy transforming complex data into meaningful insights and building solution
 
 **Other**
 - Strong mathematical and statistical foundation  
-- Experience with large datasets and distributed processing  
 - Ability to communicate insights clearly  
 
----
-
-## 📂 Featured Projects
-
-### 🔹 **1. Project Name**
-*Short description of what the project does, tools used, and the problem it solves.*
-
-### 🔹 **2. Project Name**
-*Brief description of the dataset, your approach, and the results.*
-
-### 🔹 **3. Project Name**
-*Explain the model(s) used, key insights, and what you learned.*
-
-_Add your project links here when ready!_
-
----
-
-## 🌱 Currently Learning
-
-- Advanced machine learning  
-- MLOps & MLflow  
-- Cloud services for data (AWS, GCP, Azure)  
-- Deep learning fundamentals  
 
 ---
 
@@ -69,11 +45,8 @@ _Add your project links here when ready!_
 
 Feel free to reach out!
 
-- Email: **your.email@example.com**  
-- LinkedIn: **[Your LinkedIn Profile](#)**  
-- Phone: **+506 6094 6970**
+- Email: **isaac.abl@hotmail.com**  
+- LinkedIn: **www.linkedin.com/in/isaac-brenes-lopez-**  
 
 ---
 
-Thanks for visiting my profile! 😊  
-If you like my work, feel free to ⭐ my repositories.
