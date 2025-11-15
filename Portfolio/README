@@ -1,13 +1,11 @@
-md
-
 # 👋 Hi, I'm Isaac Brenes López
 
-I'm a Data Scientist with a strong background in **Physics** and a deep interest in **machine learning**, **data analytics**, and **artificial intelligence**.
+I'm a Data Scientist with a strong background in **Physics** and a deep interest in **machine learning**, **data analytics**, and **artificial intelligence**. 
 I enjoy transforming complex data into meaningful insights and building solutions that solve real-world problems.
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 - 🎓 **B.S. in Physics** — University of Costa Rica  
 - 📊 Recently completed a **Data Science specialization**  
@@ -17,37 +15,65 @@ I enjoy transforming complex data into meaningful insights and building solution
 
 ---
 
-##  Technical Skills
+## 🛠️ Technical Skills
 
 **Programming & Tools**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, PySpark)  
 - SQL  
-- SQL Server Integration Services (SSIS)
 - R (basic)  
 - Power BI  
-- Docker (basic)
-
+- Docker  
+- Git & GitHub  
 
 **Data Science & ML**
 - Data cleaning & preprocessing  
 - Exploratory data analysis (EDA)  
 - Supervised & unsupervised learning  
 - Model evaluation & optimization  
-- Clustering (K-Means)  
-- Linear & logistic regression   
+- Clustering (K-Means, DBSCAN)  
+- Linear & logistic regression  
+- Time series basics  
 
 **Other**
-- Strong mathematical and statistical foundation   
+- Strong mathematical and statistical foundation  
+- Experience with large datasets and distributed processing  
 - Ability to communicate insights clearly  
 
 ---
 
+## 📂 Featured Projects
+
+### 🔹 **1. Project Name**
+*Short description of what the project does, tools used, and the problem it solves.*
+
+### 🔹 **2. Project Name**
+*Brief description of the dataset, your approach, and the results.*
+
+### 🔹 **3. Project Name**
+*Explain the model(s) used, key insights, and what you learned.*
+
+_Add your project links here when ready!_
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced machine learning  
+- MLOps & MLflow  
+- Cloud services for data (AWS, GCP, Azure)  
+- Deep learning fundamentals  
+
+---
 
 ## 📫 Contact
 
 Feel free to reach out!
 
-- Email: **isaac.abl@hotmail.com**  
-- LinkedIn: **www.linkedin.com/in/isaac-brenes-lopez-**  
+- Email: **your.email@example.com**  
+- LinkedIn: **[Your LinkedIn Profile](#)**  
+- Phone: **+506 6094 6970**
 
 ---
+
+Thanks for visiting my profile! 😊  
+If you like my work, feel free to ⭐ my repositories.
