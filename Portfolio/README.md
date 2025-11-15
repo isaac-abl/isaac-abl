@@ -32,7 +32,6 @@ I enjoy transforming complex data into meaningful insights and building solution
 - Model evaluation & optimization  
 - Clustering (K-Means, DBSCAN)  
 - Linear & logistic regression  
-- Time series basics  
 
 **Other**
 - Strong mathematical and statistical foundation  
