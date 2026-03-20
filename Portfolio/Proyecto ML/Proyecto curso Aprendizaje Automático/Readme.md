@@ -19,7 +19,7 @@ información sobre los países considerados.
 ---
 
 ## ⚙️ Flujo de trabajo
-1. **Data Exploration & Cleaning**
+1. **Exploración de datos y limpieza**
    - Comprobación de valores nulos y consistencia del set de datos.  
    - Se analizó la correlación entre las características y la variable objetivo
      para eliminar características que aporten poca información.  
