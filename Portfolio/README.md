@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isaac Brenes López
 
-I'm a Data Scientist with a strong background in **Physics** and a deep interest in **machine learning**, **data analytics**, and **artificial intelligence**. 
+I'm a Data Scientist with a strong background in **Physics** and a deep interest in **machine learning**, **data analytics**, **data engineering**, and **artificial intelligence**. 
 I enjoy transforming complex data into meaningful insights and building solutions that solve real-world problems.
 
 ---
@@ -9,7 +9,7 @@ I enjoy transforming complex data into meaningful insights and building solution
 
 - 🎓 **B.S. in Physics** — University of Costa Rica  
 - 📊 Recently completed a **Data Science specialization**  
-- 🧩 Passionate about problem-solving, statistics, and predictive modeling  
+- 🧩 Passionate about problem-solving, statistics, data analytics and predictive modeling  
 - 💻 Strong analytical mindset shaped by scientific training  
 - 🚀 Always learning, improving, and exploring new technologies  
 
